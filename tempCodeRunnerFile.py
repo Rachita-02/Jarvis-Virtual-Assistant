@@ -1,0 +1,1 @@
+newsapi = os.getenv("NEWS_API_KEY")
